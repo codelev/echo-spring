@@ -5,6 +5,10 @@ Requirements:
 - Java 21+
 - Docker
 
+Endpoints:
+- HTTP GET `/rest/echo`
+- WebSocket `/ws/echo`
+
 ## Development
 
 ```shell
